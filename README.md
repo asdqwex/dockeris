@@ -1,4 +1,4 @@
-# dockeris
+# dockerish
 Docker scripts and notes
 
 
